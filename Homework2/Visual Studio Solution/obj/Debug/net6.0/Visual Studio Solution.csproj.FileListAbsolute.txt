@@ -1,0 +1,15 @@
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net6.0\Visual Studio Solution.exe
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net6.0\Visual Studio Solution.deps.json
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net6.0\Visual Studio Solution.runtimeconfig.json
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net6.0\Visual Studio Solution.dll
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net6.0\Visual Studio Solution.pdb
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.csproj.AssemblyReference.cache
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.AssemblyInfoInputs.cache
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.AssemblyInfo.cs
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.csproj.CoreCompileInputs.cache
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.dll
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\refint\Visual Studio Solution.dll
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.pdb
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\Visual Studio Solution.genruntimeconfig.cache
+C:\Users\99555\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net6.0\ref\Visual Studio Solution.dll
